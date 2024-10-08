@@ -79,7 +79,7 @@ function Home2() {
                 <br />
                 <li>
                   <b className="purple">Best rating</b> on LeetCode :{" "}
-                  <b className="purple">1600+</b> Rating.
+                  <b className="purple">1668+</b> Rating.
                   {/* , among{" "} */}
                   {/* <b className="purple">top 0.8%</b> of all users. */}
                 </li>
